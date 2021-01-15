@@ -7,6 +7,13 @@ https://github.com/ShlomiRex/Maplestory-Monster-DB/blob/master/Java%20Version/Re
 
 This repo contains Monster Database in the popular MMO MapleStory.
 The resources for this database were extracted from the game installation itself, March 2018, using HaRepacker for .Wz formats.
+The CSV contains:
+
+* Monster name
+* Monster level
+* Monster HP
+* Monster EXP
+and more.
 
 Use Java Version, it's better.
 
